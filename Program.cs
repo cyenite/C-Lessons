@@ -18,6 +18,7 @@ namespace Vs_Codes
            if(caroline.minimumAge >= 18)
            {
                System.Console.WriteLine("You can attend the meeting");
+               System.Console.WriteLine(Meetup.venue);
            }
            else
            {
@@ -27,38 +28,35 @@ namespace Vs_Codes
         
     }
 
-    class Person
+    class Person                        //Normal class
     {
-        public int minimumAge;
+        public int minimumAge;          //Field
         public string name;
-        public double balance { get; set; }
+        public double balance { get; set; }         //Property
 
-        public Person()
+        public Person()                             //Constructor
         {
             minimumAge = 18;
         }
-        public int YoB(int age)
+        public int YoB(int age)                     //Method
         {
             int finalAge = 2019-age;
             return finalAge;
         }
     }
 
-    class Child:Person
+    class Child:Person                              //Inheritance
     {
         public Child()
         {
             minimumAge = 0;
             balance = 50;
         }
+    }
 
-        class Toys
-        {
-            public Toys()
-            {
-                System.Console.WriteLine("No toys yet!");
-            }
-        }
-
+    static class Meetup                             //static class
+    {
+        public static string venue = "Nairobi";
+        public static int date;
     }
 }
