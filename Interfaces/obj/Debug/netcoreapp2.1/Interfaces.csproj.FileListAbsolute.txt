@@ -1,0 +1,11 @@
+H:\Vs_Codes\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.deps.json
+H:\Vs_Codes\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.runtimeconfig.json
+H:\Vs_Codes\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.runtimeconfig.dev.json
+H:\Vs_Codes\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.dll
+H:\Vs_Codes\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.pdb
+H:\Vs_Codes\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csprojAssemblyReference.cache
+H:\Vs_Codes\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csproj.CoreCompileInputs.cache
+H:\Vs_Codes\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfoInputs.cache
+H:\Vs_Codes\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfo.cs
+H:\Vs_Codes\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.dll
+H:\Vs_Codes\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.pdb

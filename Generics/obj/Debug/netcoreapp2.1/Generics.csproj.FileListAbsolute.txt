@@ -1,0 +1,11 @@
+H:\Vs_Codes\Generics\bin\Debug\netcoreapp2.1\Generics.deps.json
+H:\Vs_Codes\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.json
+H:\Vs_Codes\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.dev.json
+H:\Vs_Codes\Generics\bin\Debug\netcoreapp2.1\Generics.dll
+H:\Vs_Codes\Generics\bin\Debug\netcoreapp2.1\Generics.pdb
+H:\Vs_Codes\Generics\obj\Debug\netcoreapp2.1\Generics.csprojAssemblyReference.cache
+H:\Vs_Codes\Generics\obj\Debug\netcoreapp2.1\Generics.csproj.CoreCompileInputs.cache
+H:\Vs_Codes\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfoInputs.cache
+H:\Vs_Codes\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfo.cs
+H:\Vs_Codes\Generics\obj\Debug\netcoreapp2.1\Generics.dll
+H:\Vs_Codes\Generics\obj\Debug\netcoreapp2.1\Generics.pdb
